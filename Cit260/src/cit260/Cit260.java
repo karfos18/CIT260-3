@@ -2,13 +2,13 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package does.pkgthis.work;
+package cit260;
 
 /**
  *
  * @author Karalee Foster
  */
-public class DoesThisWork {
+public class Cit260 {
 
     /**
      * @param args the command line arguments
